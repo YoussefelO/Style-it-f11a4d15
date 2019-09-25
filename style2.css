@@ -1,0 +1,36 @@
+body {
+	background-color: green;
+}
+table,
+td {
+    border: 2px solid white;
+    width: 700px;
+    text-align: center;
+    height: 55px;
+    margin-left: 420px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+thead,
+tfoot {
+    background-color: white;
+    color: #fff;
+}
+th {
+	color: green;
+}
+h1 {
+	text-align: center;
+	background-color: white;
+	border-radius: 10px 10px 10px 10px;
+	width: 500px;
+	margin-left: 515px;
+}
+h2 {
+	text-align: center;
+	background-color: white;
+	border-radius: 10px 10px 10px 10px;
+	width: 200px;
+	margin-left: 650px;
+}
